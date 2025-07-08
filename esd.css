@@ -22,7 +22,7 @@ body{
     background-size:auto;
 }
 h1{  
-    border: 3px solid purple;
+    border: 3px azure;
      font-family:arial;
      color:rgb(226, 230, 15);
      text-align:center;
@@ -45,12 +45,12 @@ h1:hover{
 
 }
 ul{ 
-    border:3px solid purple;
+    border:3px azure;
     line-height:27px;
     font-size:27px;
 }
 ol{
-    border:3px solid purple;
+    border:3px azure;
     font-size:27px;
     line-height:27px;
 }
@@ -67,7 +67,7 @@ h3:hover{
 }
 
 h2{
-    border:3px solid green;
+    border:3px grey;
     text-align:center;
     color:seagreen;
     letter-spacing:8px;
